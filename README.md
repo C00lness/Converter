@@ -1,4 +1,4 @@
-# Converter
+Конвертер валют:
 Mvvm
 Hilt
 Coroutines

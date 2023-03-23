@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="Header">Конвертер валют</string>
+    <string name="EdText">Кол-во единиц</string>
+    <string name="dot">.</string>
+    <string name="afn">AFN</string>
+    <string name="refresh">refresh</string>
+    <string name="convert">Конвертировать</string>
+    <string name="contact">Контакты</string>
+    <string name="contact1"></string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="result">Результат</string>
+    <string name="Converter">Конвертер</string>
+    <string name="Location">Локация</string>
+    <string name="Banks">Банки</string>
+
+    <string name="Country">Страна:</string>
+    <string name="Area">Область:</string>
+    <string name="PostCode">Почтовый индекс:</string>
+    <string name="City">Город:</string>
+    <string name="Coordination">Координаты:</string>
+
+    <string name="Currency">Валюта</string>
+    <string name="CourseL">Курс: вчера</string>
+    <string name="Course">  сегодня</string>
+    <string name="CourseCB">Курс ЦБ</string>
+    <string name="HeaderButton">Конвертер</string>
+</resources>
